@@ -76,3 +76,6 @@ for key, val in data_panen.items():
 
 print('===========================')
 print('')
+
+
+print("baris baru pythonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn")
